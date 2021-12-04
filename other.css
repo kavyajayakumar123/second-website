@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+     color: orange;
+}
+.heading-outer{
+    margin-left: 70px;
+    margin-top: 10px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.navlinks{
+    
+    width: 40%;
+    display: flex;
+    justify-content: centers;
+    margin-top: 10px;
+    color: white;
+   
+}
+
+
+.link{
+    margin: 10px 50px;
+    display: flex;
+}
+input{
+    padding: 10px;
+    background-color:rgb(153, 138, 138);
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    border: none;
+}
+.searchs{
+    width: 30%;
+    color: papayawhip;
+    margin-top: 10px;
+    display: flex;
+    margin-left: 30px;
+    
+}
+.searchs{
+    margin-left: 25%;
+
+}
+
+button{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: orange;
+    display: flex;
+
+}
+h2{
+    margin-top:150px;
+    font-size: 30px;
+    font-style: arial;
+    margin-bottom: 20px;
+
+}
+p{
+    width: 115%;
+    margin-bottom: 60px;
+    
+}
+.navlinks{
+    margin-left:95px;
+    
+}
+
+.main-section{
+    margin-left: 105px;
+    
+    width: 40%;
+    margin-bottom: 5px;
+    
+}
+.right-section{
+    
+    width: 60%;
+    margin-left: 500px;
+    
+    border-radius: 5px;
+   
+}
+#join{
+    margin-top: 50px;
+    width: 35%;
+    padding: 5px;
+    padding: 5px 25px;
+    
+}
+.main{
+    display: flex;
+    margin-top: 10%;
+    color: white;
+}
+h2{
+    margin-top: 20px;
+}
+p{
+    margin-top: 50px;
+}
+body{
+    background-color: rgb(92, 86, 86);
+}
+#textin{
+    width: 100px;
+    background-color: white;
+}
+#log{
+    background-color: white;
+    width:180px;
+    margin-top: 10px;
+    padding: 5px 50px;
+}
+.registrar{
+    margin-top: 20px;
+   
+}
+label{
+    width: 25px;
+    margin-top: 25px;
+}
